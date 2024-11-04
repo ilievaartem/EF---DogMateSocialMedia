@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DogMateSocialMedia.WebAPI", "DogMateSocialMedia.WebAPI\DogMateSocialMedia.WebAPI.csproj", "{844379A9-F758-4D32-B59C-2AE9C4A739DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DogMateSocialMedia.DataAccessLayer", "DogMateSocialMedia.DataAccessLayer\DogMateSocialMedia.DataAccessLayer.csproj", "{2129ED75-F482-4ABD-9B49-C49BA1E20113}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DogMateSocialMedia.BusinessLogicLayer", "DogMateSocialMedia.BusinessLogicLayer\DogMateSocialMedia.BusinessLogicLayer.csproj", "{529D4AD4-5F33-4689-8A0F-42E0D36F165B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{844379A9-F758-4D32-B59C-2AE9C4A739DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{844379A9-F758-4D32-B59C-2AE9C4A739DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{844379A9-F758-4D32-B59C-2AE9C4A739DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{844379A9-F758-4D32-B59C-2AE9C4A739DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2129ED75-F482-4ABD-9B49-C49BA1E20113}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2129ED75-F482-4ABD-9B49-C49BA1E20113}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2129ED75-F482-4ABD-9B49-C49BA1E20113}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2129ED75-F482-4ABD-9B49-C49BA1E20113}.Release|Any CPU.Build.0 = Release|Any CPU
+		{529D4AD4-5F33-4689-8A0F-42E0D36F165B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{529D4AD4-5F33-4689-8A0F-42E0D36F165B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{529D4AD4-5F33-4689-8A0F-42E0D36F165B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{529D4AD4-5F33-4689-8A0F-42E0D36F165B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "soNVzaBAAqYbIee6T3SXKyc3eQB4oFCYW0BLm109kNs=",
+  "Source": "DogMateSocialMedia.WebAPI",
+  "BasePath": "_content/DogMateSocialMedia.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

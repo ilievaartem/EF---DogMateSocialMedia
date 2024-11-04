@@ -1,0 +1,6 @@
+@EF___DogMateSocialMedia_HostAddress = http://localhost:5179
+
+GET {{EF___DogMateSocialMedia_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
